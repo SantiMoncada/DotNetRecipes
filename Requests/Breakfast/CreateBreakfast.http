@@ -2,7 +2,7 @@ POST http://localhost:5132/breakfast
 Content-Type: application/json
 
 {
-    "name":"vegan chickend",
+    "name":"vegan chickend next level",
     "description":"looks weird, but seems edible",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
